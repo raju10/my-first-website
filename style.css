@@ -120,3 +120,76 @@ section {
   color: white;
   font-weight: 600;
 }
+#myExperiences {
+  background-image: url("images/exp-bg.png");
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.myExperiencesWrapper {
+  overflow: hidden;
+}
+
+.myExperiencesContainLeft {
+  float: left;
+  width: 45%;
+  height: 400px;
+
+  padding-left: 30px;
+  padding-right: 20px;
+
+  border-left: 8px solid;
+  border-image: linear-gradient(lightsalmon, tomato);
+  border-image-slice: 1;
+  box-shadow: -11px 10px 20px 0px #983a3a;
+  margin-bottom: 40px;
+}
+.myExperiencesContainLeft h1 {
+  padding-top: 40px;
+  font-size: 40px;
+  font-weight: 550;
+  padding-bottom: 35px;
+}
+.myExperiencesContainLeft h3 {
+  font-size: 20px;
+  color: orange;
+  padding-bottom: 15px;
+  font-weight: 500;
+}
+.myExperiencesContainLeft p {
+  font-size: 18px;
+  color: gray;
+  line-height: 30px;
+  padding-bottom: 40px;
+}
+.myExperiencesContainRight {
+  float: right;
+  width: 45%;
+  height: 400px;
+
+  padding-left: 30px;
+  padding-right: 25px;
+  border-left: 8px solid;
+  border-image: linear-gradient(blue, lightblue);
+  border-image-slice: 1;
+  box-shadow: -11px 10px 20px 0px #983a3a;
+  margin-bottom: 40px;
+}
+.myExperiencesContainRight h1 {
+  padding-top: 40px;
+  font-size: 40px;
+  font-weight: 550;
+  padding-bottom: 35px;
+}
+.myExperiencesContainRight h3 {
+  font-size: 20px;
+  color: orange;
+  padding-bottom: 15px;
+  font-weight: 500;
+}
+.myExperiencesContainRight p {
+  font-size: 18px;
+  color: gray;
+  line-height: 30px;
+  padding-bottom: 10px;
+}
