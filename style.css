@@ -17,12 +17,12 @@ h6 {
   font-family: "Poppins", sans-serif;
 }
 section {
-  padding: 60px 0px;
+  padding: 80px 0px;
 }
 #header {
   background-image: url("images/top-banner.png");
   background-repeat: no-repeat;
-  border: 1px solid red;
+  border: 1x solid tomato;
 }
 .container {
   width: 1600px;
@@ -141,7 +141,7 @@ section {
   border-left: 8px solid;
   border-image: linear-gradient(lightsalmon, tomato);
   border-image-slice: 1;
-  box-shadow: -11px 10px 20px 0px #983a3a;
+  box-shadow: 4px 6px 20px 0px #80808080;
   margin-bottom: 40px;
 }
 .myExperiencesContainLeft h1 {
@@ -170,9 +170,9 @@ section {
   padding-left: 30px;
   padding-right: 25px;
   border-left: 8px solid;
-  border-image: linear-gradient(blue, lightblue);
+  border-image: linear-gradient(#96c5d4, #3a53daa6);
   border-image-slice: 1;
-  box-shadow: -11px 10px 20px 0px #983a3a;
+  box-shadow: 4px 3px 20px 0px #808080c9;
   margin-bottom: 40px;
 }
 .myExperiencesContainRight h1 {
