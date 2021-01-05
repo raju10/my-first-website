@@ -22,7 +22,6 @@ section {
 #header {
   background-image: url("images/top-banner.png");
   background-repeat: no-repeat;
-  border: 1x solid tomato;
 }
 .container {
   width: 1600px;
